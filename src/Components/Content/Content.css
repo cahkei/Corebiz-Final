@@ -1,0 +1,49 @@
+.content p {
+    color: white;
+    margin: 0px;
+    font-size: 60px;
+    font-weight: 600;
+    height: 261px;
+    line-height: 1;
+    padding: 64px;
+}
+.contentcontainer {
+    display: flex;
+}
+.content {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 2rem;
+    width: 36%;
+}
+.imgAPI {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+.btn-seemore {
+    border-radius: 50px;
+    height: 50px;
+    max-width: 195px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+    font-size: 1em;
+    font-weight: 600;
+    margin-left: 64px;
+}
+.btn-seemore:hover {
+    opacity: 70%;
+    transition: color .15s;
+    cursor: pointer;
+}
+.btn-seemore img {
+    padding-left: 10px;
+    height: 15px;
+}
