@@ -3,14 +3,14 @@ import './App.css';
 import Navbar from './Components/Navbar/Navbar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Header from './Components/Header/Header';
-import Content from './Components/Content/Content';
 import Footer from './Components/Footer/Footer';
+import Content2 from './Components/Content/Content2';
 
 function App() {
   return (
     <Router>
       <Header/>
-      <Content/>
+      <Content2/>
       <Footer/>
     </Router>
     

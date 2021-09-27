@@ -11,29 +11,29 @@ function Footer() {
         <footer>
             <div className="footer">
                 <div className="logo-footer">
-                    <a href="#"><img src={logofooter}></img></a>
+                    <a href="https://www.corebiz.ag/pt/" target="_blank" rel="noreferrer"><img src={logofooter} alt="corebiz-footer"></img></a>
                     <p>direitos reservados, corebiz 2021</p>
 
                         <div className="social">
-                            <a href="https://www.facebook.com/corebiz.ag/" target="_blank"><img src={facebook}></img></a>
-                            <a href="https://www.instagram.com/corebizag/" target="_blank"><img src={instagram}></img></a>
-                            <a href="https://www.linkedin.com/in/camilakeikomaeda/" target="_blank"><img src={linkedin}></img></a>
-                            <a href="https://github.com/cahkei" target="_blank"><img src={github}></img></a>
+                            <a href="https://www.facebook.com/corebiz.ag/" target="_blank" rel="noreferrer"><img src={facebook} alt="social-icon"></img></a>
+                            <a href="https://www.instagram.com/corebizag/" target="_blank" rel="noreferrer"><img src={instagram} alt="social-icon"></img></a>
+                            <a href="https://www.linkedin.com/in/camilakeikomaeda/" target="_blank" rel="noreferrer"><img src={linkedin} alt="social-icon"></img></a>
+                            <a href="https://github.com/cahkei" target="_blank" rel="noreferrer"><img src={github} alt="social-icon"></img></a>
                         </div>
                 </div>
                     <div className="footer-menu">
                             <ul>
                                 <li>
-                                    <a href="#">a corebiz</a>   
+                                    <a href="https://www.corebiz.ag/pt/" target="_blank" rel="noreferrer">a corebiz</a>   
                                 </li>
                                 <li>
-                                    <a href="#">serviços</a>  
+                                    <a href="https://www.corebiz.ag/pt/" target="_blank" rel="noreferrer">serviços</a>  
                                 </li>
                                 <li>
-                                    <a href="#">cases</a>  
+                                    <a href="https://www.corebiz.ag/pt/" target="_blank" rel="noreferrer">cases</a>  
                                 </li>
                                 <li>
-                                    <a href="#">contato</a>  
+                                    <a href="https://www.corebiz.ag/pt/" target="_blank" rel="noreferrer">contato</a>  
                                 </li>      
                             </ul>
                     </div>

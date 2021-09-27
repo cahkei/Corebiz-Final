@@ -7,21 +7,21 @@ function Header() {
         <header>
             <div className="header">
                 <div className="logo-header">
-                    <a href="#"><img src={logoheader}></img></a>
+                    <a href="https://www.corebiz.ag/pt/"><img src={logoheader}></img></a>
                 </div>
                 <div className="menu">
                     <ul>
                         <li>
-                            <a href="#">a corebiz</a>   
+                            <a href="https://www.corebiz.ag/pt/" target="_blank" rel="noreferrer">a corebiz</a>   
                         </li>
                         <li>
-                            <a href="#">serviços</a>  
+                            <a href="https://www.corebiz.ag/pt/" target="_blank" rel="noreferrer">serviços</a>  
                         </li>
                         <li>
-                            <a href="#">cases</a>  
+                            <a href="https://www.corebiz.ag/pt/" target="_blank" rel="noreferrer">cases</a>  
                         </li>
                         <li>
-                            <a href="#">contato</a>  
+                            <a href="https://www.corebiz.ag/pt/" target="_blank" rel="noreferrer">contato</a>  
                         </li>      
                     </ul>
                 </div>
